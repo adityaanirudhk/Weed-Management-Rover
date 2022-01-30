@@ -25,7 +25,7 @@ cd ~/catkin_ws/src/kr5_description/
 python3 teleop_template.py
 
 # Gazebo with controller commands
-roslaunch kr5_gazebo gz_connected_with_rviz.launch
-rostopic pub /kuka/link_1_controller/command std_msgs/Float64 "data: 3.14"
-rostopic pub /kuka/link_2_controller/command std_msgs/Float64 "data: -1.0"
+roslaunch kr5_gazebo gz_connected_with_rviz.launch  
+rostopic pub /kuka/link_1_controller/command std_msgs/Float64 "data: 3.14"  
+rostopic pub /kuka/link_2_controller/command std_msgs/Float64 "data: -1.0"  
 rostopic pub /kuka/link_3_controller/command std_msgs/Float64 "data: -1.0"
