@@ -1,4 +1,4 @@
-# Autonomous Weed Management Rover
+# Autonomous Agricultural Weed Management Rover
   The purpose of this project was to design a simple model of Weed Management Rover in SolidWorks, and simulate and control it in ROS using 
   appropriate speed and velocity contollers. The rover has a 5-DOF UR5 Robotic manipulator attached to its body to collect soil samples and destroy weed from the             agricultural land surface. The rover has a four-wheel drive powered by electric motors along with steerable front wheels.The speed and steering action are controlled     using JointPositionController and JointVelcoityController respectively. The motion of joints of the manipulators was controlled using JointTrajectoryController.  
     
