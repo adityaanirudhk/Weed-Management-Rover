@@ -8,6 +8,12 @@
 
 ![image](https://github.com/adityaanirudhk/Weed-Management-Rover/assets/103492081/1912403f-7656-4a98-9f61-3b2f92f9b348)
 
+ROVER CAD MODEL:
+![image](https://github.com/adityaanirudhk/Weed-Management-Rover/assets/103492081/09a4c1c7-f3ac-4f60-ae19-2ec59227a104)
+
+CONCEPTUAL DESIGN OF THE ROVER:
+![image](https://github.com/adityaanirudhk/Weed-Management-Rover/assets/103492081/61434a20-ed2d-4844-a05a-bc20a7cd335b)
+
 # Instructions to run project
 Copy below packages from mars_rover/packages inside zip file into catkin_ws/src/
 1) kr5_description
